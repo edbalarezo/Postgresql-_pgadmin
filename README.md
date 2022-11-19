@@ -1,8 +1,10 @@
 # Postgresql_pgadmin
 
+![image](https://user-images.githubusercontent.com/91167211/202830073-8a071b88-856b-495d-bf9a-3f04a8562ff1.png)
 
-![image](https://user-images.githubusercontent.com/91167211/202828657-94c5fac7-0e40-433a-af80-2cd08b54fa69.png)
+![image](https://user-images.githubusercontent.com/91167211/202830084-c70d6431-6502-4fd3-8bf2-901aca502d65.png)
 
-![image](https://user-images.githubusercontent.com/91167211/202828677-b435ae8a-0377-4b74-b8b9-897be2bbf71e.png)
+![image](https://user-images.githubusercontent.com/91167211/202830096-a3d213cc-7afd-490e-9655-4e96ae30e1e5.png)
 
+![image](https://user-images.githubusercontent.com/91167211/202830103-d5639839-5c0a-40b1-8f67-0005531db1d7.png)
 
